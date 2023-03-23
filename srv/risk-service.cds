@@ -1,7 +1,7 @@
 using {riskmanagement as rm} from '../db/schema';
 
  /**
-   * For serving end users
+   * For serving end users simple comment
    */
  service RiskService @(path : 'service/risk') {
 
